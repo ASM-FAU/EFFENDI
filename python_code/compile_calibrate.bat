@@ -1,0 +1,14 @@
+pyinstaller calibrate_main.py -D -w --name effendi_calibrate ^
+    --add-data "ui/calibrate_study_proximity.ui;ui" ^
+    --add-data "ui/Monitor.png;ui" ^
+    --add-data "ui/Mouse_Fit.svg;ui" ^
+    --add-data "ui/Scroll.png;ui" ^
+    --add-data "ui/Export.png;ui" ^
+    --add-data "ui/Hand_R.png;ui" ^
+    --add-data "ui/Hand_L.png;ui" ^
+    --add-data "ui/red_dot.png;ui" ^
+    --add-data "ui/effendi_logo_v3.ico;ui" ^
+    --icon="ui/effendi_logo_v3.ico" ^
+    --hidden-import=pkg_resources.py2_warn ^
+    --hidden-import=pkg_resources.markers ^
+    --hidden-import=tornado

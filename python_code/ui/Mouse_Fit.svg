@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="78.997025mm"
+   height="119.39125mm"
+   viewBox="0 0 78.997025 119.39125"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Mouse_Fit.svg"
+   inkscape:export-filename="C:\Users\iw87ukax\Documents\Workspace\effendi_main\python_code\ui\Mouse_Fit.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0482005"
+     inkscape:rotation="-1"
+     inkscape:cx="50.755191"
+     inkscape:cy="180.74534"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.987958,-50.505249)">
+    <g
+       id="g2072"
+       inkscape:export-filename="C:\Users\iw87ukax\Documents\Workspace\effendi_main\python_code\ui\Mouse_Fit.webp"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         style="opacity:0.997;fill:#333333;stroke-width:0.10414;stroke-linecap:square"
+         id="rect839"
+         width="20"
+         height="32.60688"
+         x="45.981079"
+         y="133.74667" />
+      <ellipse
+         style="fill:#2c5aa0;fill-opacity:1;stroke:none;stroke-width:2.33846;stroke-linecap:round"
+         id="path47"
+         cx="54.562065"
+         cy="79.231438"
+         rx="26.295513"
+         ry="28.726189" />
+      <rect
+         style="fill:#2c5aa0;fill-opacity:1;stroke:none;stroke-width:1.76905;stroke-linecap:round"
+         id="rect1120"
+         width="78.997025"
+         height="57.074409"
+         x="14.987958"
+         y="107.20168"
+         ry="27.365501" />
+      <rect
+         style="fill:#2c5aa0;fill-opacity:1;stroke:none;stroke-width:1.39184;stroke-linecap:round"
+         id="rect1120-2"
+         width="78.997025"
+         height="35.329319"
+         x="14.987958"
+         y="134.56718"
+         ry="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene 2"
+     transform="translate(-14.987958,-50.505249)">
+    <g
+       id="g2065"
+       transform="matrix(0.7971395,0,0,0.7971395,3.9418764,-12.168149)"
+       inkscape:export-filename="C:\Users\iw87ukax\Documents\Workspace\effendi_main\python_code\ui\Mouse_Fit.webp"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 96.363561,106.26057 c 0,-7.094222 -27.508495,-7.165236 -28.946342,0.71513 0,0 -0.838429,15.39772 14.613687,15.01785 5.023385,-0.12349 14.332655,2.14541 14.332655,-15.73298 z"
+         id="path857-5"
+         sodipodi:nodetypes="scss" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 30.524473,106.26057 c 0,-7.094223 27.508495,-7.165237 28.946342,0.71513 0,0 0.838429,15.39772 -14.613687,15.01785 -5.023385,-0.12349 -14.332655,2.14541 -14.332655,-15.73298 z"
+         id="path857-5-5"
+         sodipodi:nodetypes="scss" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 55.523608,102.01797 c 0,0 8.159247,2.44415 15.882797,0 l -3.989186,5.05756 c 0,0 -3.691468,-2.34535 -7.946404,0 z"
+         id="path1943" />
+    </g>
+  </g>
+</svg>

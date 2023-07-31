@@ -1,0 +1,7 @@
+/python_code/venv
+*.json
+*.spec
+*.pyc
+/python_code/build
+/python_code/dist
+__pycache__/
